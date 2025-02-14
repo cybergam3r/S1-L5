@@ -1,0 +1,14 @@
+C:\Users\giogi\source\repos\S1-l5\S1-l5\bin\Debug\net8.0\S1-l5.exe
+C:\Users\giogi\source\repos\S1-l5\S1-l5\bin\Debug\net8.0\S1-l5.deps.json
+C:\Users\giogi\source\repos\S1-l5\S1-l5\bin\Debug\net8.0\S1-l5.runtimeconfig.json
+C:\Users\giogi\source\repos\S1-l5\S1-l5\bin\Debug\net8.0\S1-l5.dll
+C:\Users\giogi\source\repos\S1-l5\S1-l5\bin\Debug\net8.0\S1-l5.pdb
+C:\Users\giogi\source\repos\S1-l5\S1-l5\obj\Debug\net8.0\S1-l5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giogi\source\repos\S1-l5\S1-l5\obj\Debug\net8.0\S1-l5.AssemblyInfoInputs.cache
+C:\Users\giogi\source\repos\S1-l5\S1-l5\obj\Debug\net8.0\S1-l5.AssemblyInfo.cs
+C:\Users\giogi\source\repos\S1-l5\S1-l5\obj\Debug\net8.0\S1-l5.csproj.CoreCompileInputs.cache
+C:\Users\giogi\source\repos\S1-l5\S1-l5\obj\Debug\net8.0\S1-l5.dll
+C:\Users\giogi\source\repos\S1-l5\S1-l5\obj\Debug\net8.0\refint\S1-l5.dll
+C:\Users\giogi\source\repos\S1-l5\S1-l5\obj\Debug\net8.0\S1-l5.pdb
+C:\Users\giogi\source\repos\S1-l5\S1-l5\obj\Debug\net8.0\S1-l5.genruntimeconfig.cache
+C:\Users\giogi\source\repos\S1-l5\S1-l5\obj\Debug\net8.0\ref\S1-l5.dll
